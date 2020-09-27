@@ -1,2 +1,2 @@
 rootProject.name = "Clique"
-include("common", "backend")
+include("common", "backend", "android")
